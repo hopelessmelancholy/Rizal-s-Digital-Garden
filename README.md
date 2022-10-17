@@ -1,3 +1,4 @@
+# Rizal's Digital Garden
 Rizal's Digital Garden is a pseudo-online knowledge base about the national hero Rizal. It makes use of the app Obsidian and Github to ensure that the files remain accesible for many types of people and retain a certain permeance through proper version controls. The project aims to create an interactive, ever-growing, and aesthetic information repository about Rizal, directing the newer generation to a reliable and free resource on the FIlipino National Hero.
 
 This repository contains only a few files at the start, because the project is a community-driven one. Therefore, Filipinos and scholars around the world are expected to contribute to the discussion by adding their takes on certain aspects of Rizal and his works. Due to the atomic nature of the notes in this repository, adding conflicting views on Rizal is not necessarily bad as they are separate in the knowledge graph and may be linked to differing concepts.
