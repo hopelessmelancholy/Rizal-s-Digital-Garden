@@ -17,7 +17,7 @@ So for the concept paper, we believe that his work, notably the El Filibusterism
 2. Download Obsidian from (https://obsidian.md/)
 3. Extract the Zip File to a Desired Location
 4. Click Open Folder as Vault and find where you extracted the files
-![Pasted image 20221017174735.png](Rizal-s-Digital-Garden/Pasted image 20221017174735.png)
+![Pasted image 20221017174735](https://user-images.githubusercontent.com/107348394/196151947-a7f9e2a7-3603-4d29-ad58-b7505cc29cb5.png)
 5. Open the Vault and Explore the Vault
 
 ## Contributing
@@ -25,10 +25,10 @@ As a community driven project, this repository contains the main files necessary
 
 ## Screenshots
 * NOTE: The following screenshots is from a large and developed vault, this project encourages students to develop their own vaults therefore effort would be required to create a similar graph
-![[Screenshot from 2022-10-17 13-49-09.png]]
+![Screenshot from 2022-10-17 13-49-09](https://user-images.githubusercontent.com/107348394/196152035-e03ac87f-44d2-4549-8556-fd7116066488.png)
 
-![[Screenshot from 2022-10-17 13-49-21.png]]
+![Screenshot from 2022-10-17 13-49-21](https://user-images.githubusercontent.com/107348394/196152106-e66ce9c7-44b6-46b3-8491-22fd50c8b354.png)
 
-![[Screenshot from 2022-10-17 13-49-25.png]]
+![Screenshot from 2022-10-17 13-49-25](https://user-images.githubusercontent.com/107348394/196152145-fb72053e-d308-4f0e-806b-f14edbb27fcf.png)
 
-![[Screenshot from 2022-10-17 13-49-29.png]]
+![Screenshot from 2022-10-17 13-49-29](https://user-images.githubusercontent.com/107348394/196152243-c581f23b-a46b-4463-a3bc-4fea987d17eb.png)
