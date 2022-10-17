@@ -17,7 +17,7 @@ So for the concept paper, we believe that his work, notably the El Filibusterism
 2. Download Obsidian from (https://obsidian.md/)
 3. Extract the Zip File to a Desired Location
 4. Click Open Folder as Vault and find where you extracted the files
-![Pasted image 20221017174735.png]
+![Pasted image 20221017174735.png](Rizal-s-Digital-Garden/Pasted image 20221017174735.png)
 5. Open the Vault and Explore the Vault
 
 ## Contributing
